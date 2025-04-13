@@ -1,0 +1,138 @@
+{
+    "users": {
+        "testuser": {
+            "password": "test123",
+            "history": [
+                {
+                    "inputs": {
+                        "pigmentation": "Low",
+                        "hydration": "Medium",
+                        "oily": "High"
+                    },
+                    "detected_skin_type": "Normal",
+                    "recommendation": "Gentle Cleanser"
+                },
+                {
+                    "inputs": {
+                        "pigmentation": "Low",
+                        "hydration": "High",
+                        "oily": "High"
+                    },
+                    "detected_skin_type": "Normal",
+                    "recommendation": "Oil-Free Gel"
+                },
+                {
+                    "inputs": {
+                        "pigmentation": "High",
+                        "hydration": "High",
+                        "oily": "High"
+                    },
+                    "detected_skin_type": "Normal",
+                    "recommendation": "Oil-Free Gel"
+                },
+                {
+                    "inputs": {
+                        "pigmentation": "High",
+                        "hydration": "Low",
+                        "oily": "High"
+                    },
+                    "detected_skin_type": "Oily",
+                    "recommendation": "Anti-Aging Serum"
+                },
+                {
+                    "inputs": {
+                        "pigmentation": "High",
+                        "hydration": "Low",
+                        "oily": "High"
+                    },
+                    "detected_skin_type": "Oily",
+                    "recommendation": "Anti-Aging Serum"
+                },
+                {
+                    "inputs": {
+                        "pigmentation": "Medium",
+                        "hydration": "Low",
+                        "oily": "High"
+                    },
+                    "detected_skin_type": "Normal, Dry",
+                    "recommendation": "Normal"
+                },
+                {
+                    "inputs": {
+                        "pigmentation": "Low",
+                        "hydration": "High",
+                        "oily": "High"
+                    },
+                    "detected_skin_type": "Normal, Dry",
+                    "recommendation": "Normal"
+                },
+                {
+                    "inputs": {
+                        "pigmentation": "Low",
+                        "hydration": "High",
+                        "oily": "High"
+                    },
+                    "detected_skin_type": "Normal, Dry",
+                    "recommendation": "Normal"
+                },
+                {
+                    "inputs": {
+                        "pigmentation": "Low",
+                        "hydration": "High",
+                        "oily": "High"
+                    },
+                    "detected_skin_type": "Normal, Dry",
+                    "recommendation": "Normal"
+                },
+                {
+                    "inputs": {
+                        "pigmentation": "Low",
+                        "hydration": "High",
+                        "oily": "High"
+                    },
+                    "detected_skin_type": "Normal, Dry",
+                    "recommendation": "Normal"
+                }
+            ],
+            "feedback": []
+        },
+        "nani": {
+            "password": "nani",
+            "history": [
+                {
+                    "inputs": {
+                        "pigmentation": "Low",
+                        "hydration": "Low",
+                        "oily": "Low"
+                    },
+                    "detected_skin_type": "Normal, Dry",
+                    "recommendation": "Normal"
+                },
+                {
+                    "inputs": {
+                        "pigmentation": "Low",
+                        "hydration": "Low",
+                        "oily": "Low"
+                    },
+                    "detected_skin_type": "Normal",
+                    "recommendation": "Normal"
+                }
+            ],
+            "feedback": [
+                "hi okk what are dong",
+                {
+                    "feedback": "hi okk what are dong",
+                    "product_rating": 5,
+                    "product_improvement": "by add some interface",
+                    "would_recommend": "Yes"
+                },
+                {
+                    "feedback": "hi okk what are dong",
+                    "product_rating": 5,
+                    "product_improvement": "by add some interface",
+                    "would_recommend": "Yes"
+                }
+            ]
+        }
+    }
+}
